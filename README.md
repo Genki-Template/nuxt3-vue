@@ -27,3 +27,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 1. Use **$dayjs** for datetime format
 2. Call Api in **api** folder
 3. Write logic code in **composables** folder
+4. Using **SCSS** with scope is **scoped**
