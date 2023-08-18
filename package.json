@@ -10,8 +10,12 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxtjs/stylelint-module": "^5.1.0",
     "nuxt": "^3.6.5",
-    "sass": "^1.65.1"
+    "sass": "^1.65.1",
+    "stylelint": "^15.10.2",
+    "stylelint-config-standard": "^34.0.0",
+    "stylelint-webpack-plugin": "^4.1.1"
   },
   "dependencies": {
     "@nuxtjs/dayjs": "^1.4.1",

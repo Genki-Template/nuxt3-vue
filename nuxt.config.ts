@@ -6,6 +6,10 @@ export default defineNuxtConfig({
   imports: {
     dirs: ["composables", "composables/**"],
   },
+  buildModules: ["@nuxtjs/stylelint-module"],
+  stylelint: {
+    configFile: ".stylelintrc.js",
+  },
   webpack: {
     loaders: {
       vue: {
