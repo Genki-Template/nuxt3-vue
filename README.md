@@ -21,3 +21,9 @@ yarn dev
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Rule
+
+1. Use **$dayjs** for datetime format
+2. Call Api in **api** folder
+3. Write logic code in **composables** folder
